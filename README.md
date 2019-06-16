@@ -1,2 +1,3 @@
 # METRIK2k19
-Mobile Apps and Database for Metrik2k19
+Still in progress,
+This repo just only for source code management practice 
